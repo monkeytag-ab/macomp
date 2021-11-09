@@ -1,0 +1,4487 @@
+.mediaViewInfo {
+	--web-view-name: 7.5 - About Us - Careers – Managed Services Sales;
+	--web-view-id: n_5_-_About_Us_-_Careers__Managed_Services_Sales;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_5_-_About_Us_-_Careers__Managed_Services_Sales;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_5_-_About_Us_-_Careers__Managed_Services_Sales {
+	position: absolute;
+	width: 1440px;
+	height: 3885px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 7.5 - About Us - Careers – Managed Services Sales;
+	--web-view-id: n_5_-_About_Us_-_Careers__Managed_Services_Sales;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+	cursor: default;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Footer {
+	position: absolute;
+	width: 1440px;
+	height: 209px;
+	left: 0px;
+	top: 3675px;
+	overflow: visible;
+}
+#Base {
+	fill: rgba(21,26,65,1);
+}
+.Base {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 209px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1629_ {
+	opacity: 0.124;
+	fill: url(#Rectangle_1629_);
+}
+.Rectangle_1629_ {
+	position: absolute;
+	overflow: visible;
+	width: 1092px;
+	height: 153px;
+	left: 348px;
+	top: 53.213px;
+}
+#Subscribe {
+	position: absolute;
+	width: 553.001px;
+	height: 95px;
+	left: 440.999px;
+	top: 78.213px;
+	overflow: visible;
+}
+#input {
+	position: absolute;
+	width: 366px;
+	height: 66px;
+	left: 0px;
+	top: 28px;
+	overflow: visible;
+}
+#Rectangle_20 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 366px;
+	height: 45px;
+	left: 0px;
+	top: 21px;
+}
+#Eg_youmailgmailcom {
+	left: 22.001px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,26,65,1);
+}
+#Email_Address {
+	left: 22.001px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Next_CTA {
+	position: absolute;
+	width: 171px;
+	height: 47px;
+	left: 382.001px;
+	top: 48px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#Subscribe_bf {
+	left: 36.359px;
+	top: 11.056px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+#Join_our_newsletter {
+	left: 22.001px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Social {
+	position: absolute;
+	width: 119px;
+	height: 47.5px;
+	left: 1165.934px;
+	top: 125.713px;
+	overflow: visible;
+}
+#TW {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 133px;
+	top: 0px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1466 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1466 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#twitter {
+	fill: rgba(255,255,255,1);
+}
+.twitter {
+	overflow: visible;
+	position: absolute;
+	width: 25.407px;
+	height: 20.635px;
+	left: 9.581px;
+	top: 10.75px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#FB {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0.5px;
+	overflow: visible;
+}
+#Rectangle_1466_bm {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1466_bm {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#facebook-f {
+	fill: rgba(255,255,255,1);
+}
+.facebook-f {
+	overflow: visible;
+	position: absolute;
+	width: 11.052px;
+	height: 20.636px;
+	left: 20.2px;
+	top: 11.415px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#LI {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 72px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1466_bp {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1466_bp {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#linkedin-in {
+	fill: rgba(255,255,255,1);
+}
+.linkedin-in {
+	overflow: visible;
+	position: absolute;
+	width: 20.636px;
+	height: 20.636px;
+	left: 13.314px;
+	top: 12.032px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_nd_Group {
+	position: absolute;
+	width: 90px;
+	height: 141px;
+	left: 314px;
+	top: 33.787px;
+	display: none;
+	overflow: visible;
+}
+#Defense {
+	position: absolute;
+	width: 52px;
+	height: 16px;
+	left: 0px;
+	top: 25px;
+	overflow: visible;
+}
+#Defense_bt {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Gaming {
+	position: absolute;
+	width: 49px;
+	height: 16px;
+	left: 0px;
+	top: 50px;
+	overflow: visible;
+}
+#Gaming_bv {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Media_Servers {
+	position: absolute;
+	width: 90px;
+	height: 16px;
+	left: 0px;
+	top: 75px;
+	overflow: visible;
+}
+#Media_Servers_bx {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#B2B_Solutions {
+	position: absolute;
+	width: 88px;
+	height: 16px;
+	left: 0px;
+	top: 100px;
+	overflow: visible;
+}
+#B2B_Solutions_bz {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Healthcare {
+	position: absolute;
+	width: 68px;
+	height: 16px;
+	left: 0px;
+	top: 125px;
+	overflow: visible;
+}
+#Healthcare_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Education {
+	position: absolute;
+	width: 62px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Education_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#n_st_Group {
+	position: absolute;
+	width: 133px;
+	height: 141px;
+	left: 150px;
+	top: 33.787px;
+	overflow: visible;
+}
+#About {
+	position: absolute;
+	width: 37px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#About_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Support {
+	position: absolute;
+	width: 49px;
+	height: 16px;
+	left: 0px;
+	top: 100px;
+	overflow: visible;
+}
+#Support_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Markets {
+	position: absolute;
+	width: 50px;
+	height: 16px;
+	left: 0px;
+	top: 75px;
+	overflow: visible;
+}
+#Markets_ca {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Education_cb {
+	position: absolute;
+	width: 62px;
+	height: 16px;
+	left: 0px;
+	top: 50px;
+	overflow: visible;
+}
+#Education_cc {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Data_Center_Services {
+	position: absolute;
+	width: 133px;
+	height: 16px;
+	left: 0px;
+	top: 25px;
+	overflow: visible;
+}
+#Data_Center_Services_ce {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#OEM_Services {
+	position: absolute;
+	width: 89px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#OEM_Services_cg {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Background {
+	position: absolute;
+	width: 1448px;
+	height: 375px;
+	left: -4px;
+	top: 3300px;
+	overflow: visible;
+	background: rgba(24,53,148,1)
+}
+#Solutions_Background {
+	position: absolute;
+	width: 1448px;
+	height: 1275px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_401 {
+	fill: rgba(24,53,148,1);
+}
+.Path_401 {
+	overflow: visible;
+	position: absolute;
+	width: 1448px;
+	height: 1275px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Gradient_Lines {
+	opacity: 0.503;
+	position: absolute;
+	width: 1132px;
+	height: 246px;
+	left: 0px;
+	top: 884px;
+	overflow: visible;
+}
+#Rectangle_1730_cm {
+	fill: url(#Rectangle_1730_cm);
+}
+.Rectangle_1730_cm {
+	position: absolute;
+	overflow: visible;
+	width: 1132px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1731_co {
+	fill: url(#Rectangle_1731_co);
+}
+.Rectangle_1731_co {
+	position: absolute;
+	overflow: visible;
+	width: 916px;
+	height: 33px;
+	left: 0px;
+	top: 71px;
+}
+#Rectangle_1732_cq {
+	fill: url(#Rectangle_1732_cq);
+}
+.Rectangle_1732_cq {
+	position: absolute;
+	overflow: visible;
+	width: 750px;
+	height: 33px;
+	left: 0px;
+	top: 142px;
+}
+#Rectangle_1733_cs {
+	fill: url(#Rectangle_1733_cs);
+}
+.Rectangle_1733_cs {
+	position: absolute;
+	overflow: visible;
+	width: 566px;
+	height: 33px;
+	left: 0px;
+	top: 213px;
+}
+#Logos {
+	position: absolute;
+	width: 1448px;
+	height: 656px;
+	left: 0px;
+	top: 667px;
+	overflow: visible;
+}
+#Partnerships_Background {
+	fill: rgba(100,179,247,1);
+}
+.Partnerships_Background {
+	overflow: visible;
+	position: absolute;
+	width: 1448px;
+	height: 656px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Get_in_Touch {
+	position: absolute;
+	width: 1133px;
+	height: 135px;
+	left: 150.5px;
+	top: 3443.041px;
+	overflow: visible;
+}
+#Rectangle_1590 {
+	opacity: 0.299;
+	fill: rgba(177,217,251,1);
+}
+.Rectangle_1590 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 1448px;
+	height: 1337px;
+	left: -154.5px;
+	top: -190px;
+}
+#Group_36 {
+	position: absolute;
+	width: 1133px;
+	height: 928px;
+	left: 0px;
+	top: 107px;
+	overflow: visible;
+}
+#input_cy {
+	position: absolute;
+	width: 558px;
+	height: 62px;
+	left: 0px;
+	top: 188px;
+	overflow: visible;
+}
+#Rectangle_20_cz {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_20_cz {
+	position: absolute;
+	overflow: visible;
+	width: 558px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+#Exampleemailcom {
+	opacity: 0.5;
+	left: 25px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,26,65,1);
+}
+#input_c {
+	position: absolute;
+	width: 1133px;
+	height: 62px;
+	left: 0px;
+	top: 335px;
+	overflow: visible;
+}
+#Rectangle_20_c {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_20_c {
+	position: absolute;
+	overflow: visible;
+	width: 1133px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+#Your_Company_Name {
+	opacity: 0.5;
+	left: 25px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,26,65,1);
+}
+#input_da {
+	position: absolute;
+	width: 558px;
+	height: 103px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_20_da {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_20_da {
+	position: absolute;
+	overflow: visible;
+	width: 558px;
+	height: 62px;
+	left: 0px;
+	top: 41px;
+}
+#First_Name {
+	opacity: 0.5;
+	left: 25px;
+	top: 58px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,26,65,1);
+	text-transform: capitalize;
+}
+#Name {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#input_db {
+	position: absolute;
+	width: 1133px;
+	height: 307px;
+	left: 0px;
+	top: 484.001px;
+	overflow: visible;
+}
+#Path_188 {
+	fill: rgba(255,255,255,1);
+}
+.Path_188 {
+	overflow: visible;
+	position: absolute;
+	width: 1133px;
+	height: 307px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#write_your_message_here {
+	opacity: 0.5;
+	left: 25px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,26,65,1);
+	text-transform: capitalize;
+}
+#input_dc {
+	position: absolute;
+	width: 558px;
+	height: 62px;
+	left: 575px;
+	top: 188px;
+	overflow: visible;
+}
+#Rectangle_20_dc {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_20_dc {
+	position: absolute;
+	overflow: visible;
+	width: 558px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+#XXX-XXX-XXXX {
+	opacity: 0.5;
+	left: 25px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,26,65,1);
+}
+#input_de {
+	position: absolute;
+	width: 558px;
+	height: 62px;
+	left: 575px;
+	top: 41px;
+	overflow: visible;
+}
+#Path_661 {
+	fill: rgba(255,255,255,1);
+}
+.Path_661 {
+	overflow: visible;
+	position: absolute;
+	width: 558px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Last_Name {
+	opacity: 0.5;
+	left: 25px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(21,26,65,1);
+	text-transform: capitalize;
+}
+#solid-button {
+	position: absolute;
+	width: 261px;
+	height: 62px;
+	left: 20px;
+	top: 90px;
+	overflow: visible;
+}
+#Rectangle_2_di {
+	fill: rgba(21,26,65,1);
+}
+.Rectangle_2_di {
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+	filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.202));
+}
+#submit {
+	left: 75px;
+	top: 18.643px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Email {
+	left: 26px;
+	top: 149px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Your_Company_Name_dl {
+	left: 26px;
+	top: 294px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#How_Can_We_Help_You {
+	left: 26px;
+	top: 443.001px;
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Phone {
+	left: 603px;
+	top: 149px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Contact_Us {
+	left: 415.5px;
+	top: -25px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Job_Posting {
+	position: absolute;
+	width: 940px;
+	height: 2448.294px;
+	left: 247px;
+	top: 723.209px;
+	overflow: visible;
+}
+#Apply_Now {
+	position: absolute;
+	width: 247px;
+	height: 47px;
+	left: 349.5px;
+	top: 2425px;
+	overflow: visible;
+}
+#Rectangle_1637 {
+	fill: transparent;
+	stroke: rgba(21,26,65,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1637 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#Apply_Now_ds {
+	left: 11px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	height: 26px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(21,26,65,1);
+}
+#Qualifications__Prerequisites {
+	position: absolute;
+	width: 940px;
+	height: 356.501px;
+	left: 0px;
+	top: 2013.004px;
+	overflow: visible;
+}
+#Lead_Generation {
+	position: absolute;
+	width: 940px;
+	height: 304.501px;
+	left: 0px;
+	top: 52px;
+	overflow: visible;
+}
+#Bullet_Points {
+	position: absolute;
+	width: 940px;
+	height: 259px;
+	left: 0px;
+	top: 45.501px;
+	overflow: visible;
+}
+#Bachelors_degree_5_years_of_ex {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 259px;
+	line-height: 33px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(21,26,65,1);
+}
+#Ellipse_34 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_34 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 10.655px;
+}
+#Ellipse_71 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_71 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 41.655px;
+}
+#Ellipse_72 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_72 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 74.655px;
+}
+#Ellipse_73 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_73 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 108.655px;
+}
+#Ellipse_74 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_74 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 174.655px;
+}
+#Ellipse_75 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_75 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 207.655px;
+}
+#Ellipse_76 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_76 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 240.655px;
+}
+#Required {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 39px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(100,179,247,1);
+	text-transform: capitalize;
+}
+#QUALIFICATIONS__PREREQUISITES {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 35px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(21,26,65,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+#Additional_Duties {
+	position: absolute;
+	width: 940px;
+	height: 877.004px;
+	left: 0px;
+	top: 1120.791px;
+	overflow: visible;
+}
+#Lead_Generation_d {
+	position: absolute;
+	width: 940px;
+	height: 106.501px;
+	left: 0px;
+	top: 52px;
+	overflow: visible;
+}
+#Bullet_Points_d {
+	position: absolute;
+	width: 940px;
+	height: 61px;
+	left: 0px;
+	top: 45.501px;
+	overflow: visible;
+}
+#Pro-actively_research_and_purs {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 61px;
+	line-height: 33px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(21,26,65,1);
+}
+#Ellipse_34_ea {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_34_ea {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 10.655px;
+}
+#Lead_Generation_eb {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 39px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(100,179,247,1);
+	text-transform: capitalize;
+}
+#Lead_Generation_ec {
+	position: absolute;
+	width: 940px;
+	height: 238.501px;
+	left: 0px;
+	top: 188.501px;
+	overflow: visible;
+}
+#Bullet_Points_ed {
+	position: absolute;
+	width: 940px;
+	height: 193px;
+	left: 0px;
+	top: 45.501px;
+	overflow: visible;
+}
+#Develop_and_manage_account_Bus {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 193px;
+	line-height: 33px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(21,26,65,1);
+}
+#Ellipse_34_ef {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_34_ef {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 10.655px;
+}
+#Ellipse_65 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_65 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 76.655px;
+}
+#Ellipse_66 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_66 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 141.655px;
+}
+#Prospect_Management {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 39px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(100,179,247,1);
+	text-transform: capitalize;
+}
+#Lead_Generation_ej {
+	position: absolute;
+	width: 940px;
+	height: 238.501px;
+	left: 0px;
+	top: 428.002px;
+	overflow: visible;
+}
+#Bullet_Points_ek {
+	position: absolute;
+	width: 940px;
+	height: 193px;
+	left: 0px;
+	top: 45.501px;
+	overflow: visible;
+}
+#Supports_the_Account_Managemen {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 193px;
+	line-height: 33px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(21,26,65,1);
+}
+#Ellipse_34_em {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_34_em {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 10.655px;
+}
+#Ellipse_67 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_67 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 76.655px;
+}
+#Ellipse_68 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_68 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 107.655px;
+}
+#Account_Management {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 39px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(100,179,247,1);
+	text-transform: capitalize;
+}
+#Lead_Generation_eq {
+	position: absolute;
+	width: 940px;
+	height: 205.501px;
+	left: 0px;
+	top: 671.503px;
+	overflow: visible;
+}
+#Bullet_Points_er {
+	position: absolute;
+	width: 940px;
+	height: 160px;
+	left: 0px;
+	top: 45.501px;
+	overflow: visible;
+}
+#Prepare_annual_Business_Develo {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 160px;
+	line-height: 33px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(21,26,65,1);
+}
+#Ellipse_34_et {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_34_et {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 10.655px;
+}
+#Ellipse_69 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_69 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 41.655px;
+}
+#Ellipse_70 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_70 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 108.655px;
+}
+#Overall {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 39px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(100,179,247,1);
+	text-transform: capitalize;
+}
+#ADDITIONAL_DUTIES {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 35px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(21,26,65,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+#Essential_Duties {
+	position: absolute;
+	width: 940px;
+	height: 611.501px;
+	left: 0px;
+	top: 383.791px;
+	overflow: visible;
+}
+#ESSENTIAL_DUTIES_FUNCTIONS__KE {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 38px;
+	line-height: 35px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(21,26,65,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+#Bullet_Points_e {
+	position: absolute;
+	width: 940px;
+	height: 556px;
+	left: 0px;
+	top: 55.501px;
+	overflow: visible;
+}
+#Responsible_for_acquiring_new_ {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 556px;
+	line-height: 33px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(21,26,65,1);
+}
+#Ellipse_34_e {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_34_e {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 10.655px;
+}
+#Ellipse_35 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_35 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 172px;
+}
+#Ellipse_36 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_36 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 76.655px;
+}
+#Ellipse_57 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_57 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 600px;
+}
+#Ellipse_58 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_58 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 240.655px;
+}
+#Ellipse_59 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_59 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 303px;
+}
+#Ellipse_60 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_60 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 338.655px;
+}
+#Ellipse_61 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_61 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 406.655px;
+}
+#Ellipse_62 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_62 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 568px;
+}
+#Ellipse_63 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_63 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 471.655px;
+}
+#Ellipse_64 {
+	fill: rgba(21,26,65,1);
+}
+.Ellipse_64 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 504.655px;
+}
+#Managed_Services_Sales_will_be {
+	left: 0px;
+	top: 129.209px;
+	position: absolute;
+	overflow: visible;
+	width: 941px;
+	height: 270px;
+	line-height: 33px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(21,26,65,1);
+}
+#Managed_Services_Sales_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 817px;
+	height: 71px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(21,26,65,1);
+}
+#MandA-45-Promo-33300_00_32_09S {
+	position: absolute;
+	width: 1442px;
+	height: 467.075px;
+	left: 0px;
+	top: 127px;
+	overflow: visible;
+}
+#Navigation_Bar {
+	position: absolute;
+	width: 1442px;
+	height: 129px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_fh {
+	fill: rgba(21,26,56,1);
+}
+.Background_fh {
+	overflow: visible;
+	position: absolute;
+	width: 1440px;
+	height: 127.541px;
+	left: 0px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Divider_Line {
+	fill: transparent;
+	stroke: rgba(255,255,255,0.373);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Divider_Line {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 1178.745px;
+	height: 1px;
+	left: 262.254px;
+	top: 50.199px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_1628_fk {
+	opacity: 0.124;
+	fill: url(#Rectangle_1628_fk);
+}
+.Rectangle_1628_fk {
+	position: absolute;
+	overflow: visible;
+	width: 1180px;
+	height: 56px;
+	left: 262px;
+	top: 0px;
+}
+#About_fl {
+	position: absolute;
+	width: 148px;
+	height: 72px;
+	left: 1292px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1606 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1606 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 262px;
+	left: 0px;
+	top: -6px;
+}
+#Careers {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 215px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1622 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1622 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Careers_fp {
+	left: 18px;
+	top: 9.5px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Contact {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 174px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1621 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1621 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_fs {
+	left: 18px;
+	top: 9.5px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Certifications {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 133px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1620 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1620 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Certifications_fv {
+	left: 18px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#Industry_Updates {
+	position: absolute;
+	width: 148px;
+	height: 61px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1619 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1619 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Industry__Updates {
+	left: 18px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	line-height: 17px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1600 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1600 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#About_f {
+	left: 18.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Support_f {
+	position: absolute;
+	width: 128px;
+	height: 72px;
+	left: 1164px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1599 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1599 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Support_ga {
+	left: 20.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Markets_f {
+	position: absolute;
+	width: 146px;
+	height: 72px;
+	left: 1026px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1604 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1604 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 324px;
+	left: 0px;
+	top: -6px;
+}
+#Healthcare_f {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 277px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1618 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1618 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Healthcare_ga {
+	left: 18.934px;
+	top: 8.5px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#B2B_Solutions_f {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 236px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1617 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1617 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#B2B_Solutions_gb {
+	left: 18.934px;
+	top: 11.5px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#Media_Servers_gc {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 195px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1616 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1616 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Media_Servers_ge {
+	left: 18.934px;
+	top: 11.5px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#Gaming_gf {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 154px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1615 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1615 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Gaming_gh {
+	left: 18.934px;
+	top: 11.5px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Defense_gi {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 113px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1614 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1614 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Defense_gk {
+	left: 18.934px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Education_gl {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1613 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1613 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Education_gn {
+	left: 18.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1598 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1598 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Markets_gp {
+	left: 18.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Education_gq {
+	position: absolute;
+	width: 148px;
+	height: 72px;
+	left: 878px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1603 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1603 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 119px;
+	left: 0px;
+	top: -6px;
+}
+#LTE_Network {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1612 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1612 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#LTE_Network_gu {
+	left: 24.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1597 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1597 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Education_gw {
+	left: 24.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Data_Center_Services_gx {
+	position: absolute;
+	width: 238px;
+	height: 72px;
+	left: 640px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1602 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1602 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 160px;
+	left: 0px;
+	top: -6px;
+}
+#Randomware_Solutions {
+	position: absolute;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 113px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1611 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1611 {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Ransomware_Solutions {
+	left: 19.934px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Managed_Services {
+	position: absolute;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1607 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1607 {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Managed_Services_g {
+	left: 19.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1596 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1596 {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Data_Center_Services_g {
+	left: 19.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#OEM_Services_g {
+	position: absolute;
+	width: 176px;
+	height: 72px;
+	left: 464px;
+	top: 57px;
+	overflow: visible;
+}
+#Rectangle_1601 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1601 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 242px;
+	left: 0px;
+	top: -7px;
+}
+#Storage_Solutions {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 194px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1610 {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1610 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Storage_Solutions_hb {
+	left: 24.934px;
+	top: 6.5px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#HPC_Solutions {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 153px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1609 {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1609 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#HPC_Solutions_he {
+	left: 24.934px;
+	top: 8.5px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#AI {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 112px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1608 {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1608 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#AI_hh {
+	left: 24.934px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#IoT {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 71px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1607_hj {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1607_hj {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#IoT_hk {
+	left: 24.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1595 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1595 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#OEM_Services_hm {
+	left: 24.934px;
+	top: 25.5px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Sub_Menu {
+	position: absolute;
+	width: 511px;
+	height: 19px;
+	left: 665px;
+	top: 20.291px;
+	overflow: visible;
+}
+#Sales_Phone_972_490-5803 {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Support_Phone_800_225-1452 {
+	left: 279px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#CTA {
+	position: absolute;
+	width: 128.205px;
+	height: 28.413px;
+	left: 1242.729px;
+	top: 14.578px;
+	overflow: visible;
+}
+#Path_187 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_187 {
+	overflow: visible;
+	position: absolute;
+	width: 128.205px;
+	height: 28.413px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_Us_hs {
+	left: 24.103px;
+	top: 5.201px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#MA_Flat_Logo {
+	position: absolute;
+	width: 110px;
+	height: 100px;
+	left: 54px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: n_1_-_MA_Homepage_Without_Testimonials;
+	cursor: pointer;
+}
+#Navigation_Bar {
+	position: absolute;
+	width: 1442px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	background-color: rgba(21,26,56,1);
+}
+#Background_eh {
+	fill: rgba(21,26,56,1);
+}
+.Background_eh {
+	overflow: visible;
+	position: absolute;
+	width: 1440px;
+	height: 127.541px;
+	left: 0px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Divider_Line {
+	fill: transparent;
+	stroke: rgba(255,255,255,0.373);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Divider_Line {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 1178.745px;
+	height: 1px;
+	left: 262.254px;
+	top: 50.199px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_1628_ek {
+	opacity: 0.124;
+	fill: url(#Rectangle_1628_ek);
+}
+.Rectangle_1628_ek {
+	position: absolute;
+	overflow: visible;
+	width: 1180px;
+	height: 56px;
+	left: 262px;
+	top: 0px;
+}
+#About_el {
+	position: absolute;
+	width: 148px;
+	height: 72px;
+	left: 1292px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1606 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1606 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 262px;
+	left: 0px;
+	top: -6px;
+}
+#Careers {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 215px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1622 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1622 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Careers_ep {
+	left: 18px;
+	top: 9.5px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Contact {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 174px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1621 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1621 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_es {
+	left: 18px;
+	top: 9.5px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Certifications {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 133px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1620 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1620 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Certifications_ev {
+	left: 18px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#Industry_Updates {
+	position: absolute;
+	width: 148px;
+	height: 61px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1619 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1619 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Industry__Updates {
+	left: 18px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	line-height: 17px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1600 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1600 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#About_e {
+	left: 18.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Support_e {
+	position: absolute;
+	width: 128px;
+	height: 72px;
+	left: 1164px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1599 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1599 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Support_fa {
+	left: 20.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Markets_e {
+	position: absolute;
+	width: 146px;
+	height: 72px;
+	left: 1026px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1604 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1604 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 324px;
+	left: 0px;
+	top: -6px;
+}
+#Healthcare_e {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 277px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1618 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1618 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Healthcare_fa {
+	left: 18.934px;
+	top: 8.5px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#B2B_Solutions_e {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 236px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1617 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1617 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#B2B_Solutions_fb {
+	left: 18.934px;
+	top: 11.5px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#Media_Servers_fc {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 195px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1616 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1616 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Media_Servers_fe {
+	left: 18.934px;
+	top: 11.5px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#Gaming_ff {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 154px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1615 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1615 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Gaming_fh {
+	left: 18.934px;
+	top: 11.5px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Defense_fi {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 113px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1614 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1614 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Defense_fk {
+	left: 18.934px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Education_fl {
+	position: absolute;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1613 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1613 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Education_fn {
+	left: 18.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1598 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1598 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Markets_fp {
+	left: 18.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Education_fq {
+	position: absolute;
+	width: 148px;
+	height: 72px;
+	left: 878px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1603 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1603 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 119px;
+	left: 0px;
+	top: -6px;
+}
+#LTE_Network {
+	position: absolute;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1612 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1612 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#LTE_Network_fu {
+	left: 24.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1597 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1597 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Education_fw {
+	left: 24.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Data_Center_Services_fx {
+	position: absolute;
+	width: 238px;
+	height: 72px;
+	left: 640px;
+	top: 56px;
+	overflow: visible;
+}
+#Rectangle_1602 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1602 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 160px;
+	left: 0px;
+	top: -6px;
+}
+#Randomware_Solutions {
+	position: absolute;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 113px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1611 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1611 {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Ransomware_Solutions {
+	left: 19.934px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Managed_Services {
+	position: absolute;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 72px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1607 {
+	opacity: 0;
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1607 {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Managed_Services_f {
+	left: 19.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1596 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1596 {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Data_Center_Services_f {
+	left: 19.934px;
+	top: 26.5px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#OEM_Services_f {
+	position: absolute;
+	width: 176px;
+	height: 72px;
+	left: 464px;
+	top: 57px;
+	overflow: visible;
+}
+#Rectangle_1601 {
+	fill: rgba(188,224,253,1);
+}
+.Rectangle_1601 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 242px;
+	left: 0px;
+	top: -7px;
+}
+#Storage_Solutions {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 194px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1610 {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1610 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#Storage_Solutions_gb {
+	left: 24.934px;
+	top: 6.5px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+	letter-spacing: -0.2px;
+}
+#HPC_Solutions {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 153px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1609 {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1609 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#HPC_Solutions_ge {
+	left: 24.934px;
+	top: 8.5px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#AI {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 112px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1608 {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1608 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#AI_gh {
+	left: 24.934px;
+	top: 10.5px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#IoT {
+	position: absolute;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 71px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_1607_gj {
+	fill: rgba(100,179,247,1);
+}
+.Rectangle_1607_gj {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#IoT_gk {
+	left: 24.934px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,106,165,1);
+}
+#Rectangle_1595 {
+	opacity: 0;
+	fill: rgba(38,153,251,1);
+}
+.Rectangle_1595 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#OEM_Services_gm {
+	left: 24.934px;
+	top: 25.5px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Sub_Menu {
+	position: absolute;
+	width: 511px;
+	height: 19px;
+	left: 665px;
+	top: 20.291px;
+	overflow: visible;
+}
+#Sales_Phone_972_490-5803 {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Support_Phone_800_225-1452 {
+	left: 279px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#CTA {
+	position: absolute;
+	width: 128.205px;
+	height: 28.413px;
+	left: 1242.729px;
+	top: 14.578px;
+	overflow: visible;
+}
+#Path_187 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_187 {
+	overflow: visible;
+	position: absolute;
+	width: 128.205px;
+	height: 28.413px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_Us_gs {
+	left: 24.103px;
+	top: 5.201px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#MA_Flat_Logo {
+	position: absolute;
+	width: 110px;
+	height: 100px;
+	left: 54px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: n_1_-_MA_Homepage_Without_Testimonials;
+	cursor: pointer;
+}
+.Rectangle_1628_sq {
+	position: absolute;
+	overflow: visible;
+	width: 1180px;
+	height: 56px;
+	left: 262px;
+	top: 0px;
+}
+#Rectangle_1628_sq_rect {
+	opacity: 0.124;
+	fill: url(#Rectangle_1628_sq);
+}
+#Navbar:hover {
+	background-color: rgba(47,72,146,1);
+}
+#Navbar {
+	position: absolute;
+	overflow: visible;
+	top: 56px;
+	height:72px;
+	cursor: pointer;
+}
+.NavbarDrop {
+	display: none;
+	position: relative;
+	width: 100%;
+	top: 72px;
+	overflow: visible;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	background-color: rgba(247,247,247,1);
+}
+.Navbar:hover .NavbarDrop {
+	display: block;
+}
+#NavbarText {
+	height: 72px;
+	position: absolute;
+	overflow: visible;
+    white-space: nowrap;
+    line-height: 72px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#NavbarButton {
+	position: relative;
+	height: 41px;
+	left: 0px;
+	overflow: visible;
+	cursor: pointer;
+}
+#NavbarButton:hover {
+	background-color: rgba(100,179,247,1);
+}
+.NavbarButtonsText {
+	line-height: 41px;
+    position: absolute;
+    overflow: visible;
+	left: 18px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(49,53,80,1);
+}
+.NavbarButtonsText2Line {
+	margin-top: 12px;
+	line-height: 18px;
+    position: absolute;
+    overflow: visible;
+	left: 18px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(49,53,80,1);
+}
+#Contact_Us_uy {
+	left: 24.103px;
+	top: 5.201px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+@font-face {
+	font-family: Montserrat;
+	src: url(Montserrat-Medium.ttf);
+}
+@font-face {
+	font-family: Montserrat;
+	src: url(Montserrat-Bold.ttf);
+	font-weight: bold;
+}
+.IndustryUpdatesButtonText {
+	top: 12.5px;
+	width: 70px;
+	line-height: 17px;
+	margin-top: -1px;
+}
+.CertificationsButtonText {
+	width: 102px;
+}
+.ContactButtonText {
+	width: 62px;
+}
+.CareersButtonText {
+	width: 60px;
+}
+#CTA:hover #Path_187 {
+	fill: rgba(100,179,247,1);
+}
+.email_input {
+	font-family: Montserrat;
+	font-size: 20px;
+	outline: none;
+	width: 325px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: rgba(21,26,65,1);
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	color: rgba(21,26,65,1);
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+	color: rgba(21,26,65,1);
+}
+#Next_CTA:hover #Rectangle_2 {
+	fill: rgba(100,179,247,1)
+}
+#Next_CTA:hover #Subscribe_bf {
+	color: rgba(21,26,65,1);
+}
+#Subscribe_bf {
+	left: 36.359px;
+	top: 11.056px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_1466_bm {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1466_bm {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1466_bp {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1466_bp {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#ID2nd_Group {
+	position: absolute;
+	width: 90px;
+	height: 141px;
+	left: 314px;
+	top: 33.787px;
+	display: none;
+	overflow: visible;
+}
+#Defense {
+	position: absolute;
+	width: 52px;
+	height: 16px;
+	left: 0px;
+	top: 25px;
+	overflow: visible;
+}
+#Defense_bt {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Gaming {
+	position: absolute;
+	width: 49px;
+	height: 16px;
+	left: 0px;
+	top: 50px;
+	overflow: visible;
+}
+#Gaming_bv {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Media_Servers {
+	position: absolute;
+	width: 90px;
+	height: 16px;
+	left: 0px;
+	top: 75px;
+	overflow: visible;
+}
+#Media_Servers_bx {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#B2B_Solutions {
+	position: absolute;
+	width: 88px;
+	height: 16px;
+	left: 0px;
+	top: 100px;
+	overflow: visible;
+}
+#B2B_Solutions_bz {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Healthcare {
+	position: absolute;
+	width: 68px;
+	height: 16px;
+	left: 0px;
+	top: 125px;
+	overflow: visible;
+}
+#Healthcare_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Education {
+	position: absolute;
+	width: 62px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Education_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#ID1st_Group {
+	position: absolute;
+	width: 133px;
+	height: 141px;
+	left: 150px;
+	top: 33.787px;
+	overflow: visible;
+}
+#About_b {
+	left: 0px;
+	top: 125px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Support {
+	position: absolute;
+	width: 49px;
+	height: 16px;
+	left: 0px;
+	top: 100px;
+	overflow: visible;
+}
+#Support_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Markets {
+	position: absolute;
+	width: 50px;
+	height: 16px;
+	left: 0px;
+	top: 75px;
+	overflow: visible;
+}
+#Markets_ca {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Education_cb {
+	position: absolute;
+	width: 62px;
+	height: 16px;
+	left: 0px;
+	top: 50px;
+	overflow: visible;
+}
+#Education_cc {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Data_Center_Services {
+	position: absolute;
+	width: 133px;
+	height: 16px;
+	left: 0px;
+	top: 25px;
+	overflow: visible;
+}
+#Data_Center_Services_ce {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#OEM_Services {
+	position: relative;
+	width: 89px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#OEM_Services_cg {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#About_b:hover {
+	color: rgba(100,179,247,1)
+}
+#Support_b:hover {
+	color: rgba(100,179,247,1)
+}
+#Markets_ca:hover {
+	color: rgba(100,179,247,1)
+}
+#Education_cc:hover {
+	color: rgba(100,179,247,1)
+}
+#Data_Center_Services_ce:hover {
+	color: rgba(100,179,247,1)
+}
+#OEM_Services_cg:hover {
+	color: rgba(100,179,247,1)
+}
+#Rectangle_1629 {
+	opacity: 0.124;
+	fill: url(#Rectangle_1629_);
+}
+.Rectangle_1629_ {
+	position: absolute;
+	overflow: visible;
+	width: 1092px;
+	height: 153px;
+	left: 348px;
+	top: 53.213px;
+}
+#Contact_Us_c:hover #Rectangle_1637_c {
+	fill: rgba(100,179,247,1)
+}
+#solid-button:hover #submit {
+	color: rgba(21,26,65,1);
+}
+#solid-button:hover #Rectangle_2_di {
+	fill: rgba(100,179,247,1);
+}
+#Read_More:hover #Rectangle_1637 {
+	fill: rgba(100,179,247,1);
+}
+#Read_More:hover #Read_More_cj {
+	color: rgba(21,26,65,1);
+}
+#Read_More_cn:hover #Rectangle_1637_co {
+	fill: rgba(100,179,247,1);
+}
+#Read_More_cn:hover #Read_More_cp {
+	color: rgba(21,26,65,1);
+}
+#Read_More_ct:hover #Rectangle_1637_cu {
+	fill: rgba(100,179,247,1);
+}
+#Read_More_ct:hover #Read_More_cv {
+	color: rgba(21,26,65,1);
+}
+#Apply_Now:hover #Rectangle_1637 {
+	fill: rgba(100,179,247,1);
+}
+#Apply_Now:hover #Apply_Now_ds {
+	color: rgba(21,26,65,1);
+}
