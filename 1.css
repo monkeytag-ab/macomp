@@ -8149,6 +8149,10 @@ a:visited {
 	display: none !important;
 }
 
+.carousel-indicators{
+	z-index: 8 !important;
+}
+
 
 /** Video Tabs **/
 #VideoTab .nav-link, #VideoTab .nav-link.active{
@@ -8232,3 +8236,4 @@ a:visited {
  .modal-backdrop{
 	 display: none !important;
  }
+ 
