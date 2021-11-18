@@ -1803,9 +1803,10 @@
 	overflow: visible;
 }
 #Quiz {
+	background: rgba(177,217,251,1);
 	position: absolute;
 	width: 1450px;
-	height: 546.562px;
+	height: 655px;
 	left: 0px;
 	top: 1348.48px;
 	overflow: visible;
@@ -1824,10 +1825,10 @@
 }
 #Projected_Damage_Cost {
 	position: absolute;
-	width: 397.5px;
+	width: 440px;
 	height: 367px;
 	left: 927.75px;
-	top: 96.52px;
+	top: 75px;
 	overflow: visible;
 }
 #n_5_fa {
@@ -2145,7 +2146,7 @@
 	width: 354.5px;
 	height: 345px;
 	left: 529.75px;
-	top: 96.52px;
+	top: 75px;
 	overflow: visible;
 }
 #Radio_Button_-_38_times {
@@ -2462,7 +2463,7 @@
 	width: 354.5px;
 	height: 345px;
 	left: 127.5px;
-	top: 96.52px;
+	top: 75px;
 	overflow: visible;
 }
 #Radio_Button_-_38_times_go {
