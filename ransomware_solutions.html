@@ -714,32 +714,58 @@
 	</div>
 </div>
 <script>
-		$("input").on("click", function() {
-			  $(".log").css({
-				"background-color": "white",
-				"padding": "15px",
-				"border-radius": "20px",
-				"margin": "20px",
-				"border": "3px solid rgba(100, 179, 247, 1)",
-			  });
-			});
-			
-		$("input.wrong").on("click", function() {
-			  $(".log").css({
-				"border": "3px solid rgba(183, 26, 27, 1)"
-			  });
-			});
-		
 		$(".quiz_one input").on("click", function() {
+			$(".quiz_one .log").css({
+					"background-color": "white",
+					"padding": "15px",
+					"border-radius": "20px",
+					"margin": "20px",
+					"border": "3px solid rgba(100, 179, 247, 1)",
+				  });
+				  
 			$(".quiz_one .log").html($("input:checked").val());
 			});
 			
 		$(".quiz_two input").on("click", function() {
+			$(".quiz_two .log").css({
+					"background-color": "white",
+					"padding": "15px",
+					"border-radius": "20px",
+					"margin": "20px",
+					"border": "3px solid rgba(100, 179, 247, 1)",
+				  });
+				  
 			$(".quiz_two .log").html($("input:checked").val());
 			});
 			
 		$(".quiz_three input").on("click", function() {
+			$(".quiz_three .log").css({
+					"background-color": "white",
+					"padding": "15px",
+					"border-radius": "20px",
+					"margin": "20px",
+					"border": "3px solid rgba(100, 179, 247, 1)",
+				  });
+				  
 			$(".quiz_three .log").html($("input:checked").val());
+			});
+		
+		$(".quiz_one input.wrong").on("click", function() {
+			  $(".quiz_one .log").css({
+				"border": "3px solid rgba(183, 26, 27, 1)"
+			  });
+			});
+		
+		$(".quiz_two input.wrong").on("click", function() {
+			  $(".quiz_two .log").css({
+				"border": "3px solid rgba(183, 26, 27, 1)"
+			  });
+			});
+			
+		$(".quiz_three input.wrong").on("click", function() {
+			  $(".quiz_three .log").css({
+				"border": "3px solid rgba(183, 26, 27, 1)"
+			  });
 			});
 	</script>
 </body>
