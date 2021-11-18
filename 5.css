@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600);
 
 .mediaViewInfo {
 	--web-view-name: 3.3 - Data Center Services - Ransomware Solutions;
@@ -4760,3 +4760,128 @@ padding: 0 1%;
 	display: none;
   }
 }
+
+
+/*Style the Quiz */
+.quiz .question{
+  border-left: 4px solid rgba(100, 179, 247, 1);
+  padding: 15px 15px 5px;
+}
+
+.quiz .question p {
+  font-family: 'Montserrat', Helvetica, Sans-Serif;
+  font-size: 23pt;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: left;
+  color: rgba(21, 26, 65, 1);
+}
+
+
+.quiz label {
+  font-family: 'Montserrat', Helvetica, Sans-Serif;
+  font-size: 23pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33px;
+  text-align: left;
+  color: rgba(21, 26, 65, 1);
+  padding: 10px 0;
+}
+
+/* The quiz container */
+.quiz .box {
+  display: block;
+  position: relative;
+  padding-left: 45px;
+  margin: 10px 20px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.quiz .box input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.quiz .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  border: 3px solid rgba(100, 179, 247, 1);
+  margin: 10px 0;
+  /* background-color: #fff; */
+}
+
+
+
+/* On mouse-over, add a background color */
+.quiz .box:hover input ~ .checkmark {
+  /* background-color: #ededed; */
+}
+
+/* When the radio button is checked, add a background color */
+.quiz .box input:checked ~ .checkmark {
+ /* background-color: #fff; */
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.quiz .checkmark::after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Style the indicator (dot/circle) */
+.quiz .checkmark::after {
+	 top: 3.5px;
+	left: 3.5px;
+	width: 22px;
+	height: 22px;
+	border-radius: 50%;
+	background: rgba(100, 179, 247, 1);
+}
+
+/* Style the incorrect indicator */
+.quiz .no.checkmark::after {
+  background: rgba(183, 26, 27, 1) !important;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.quiz input:checked ~ .checkmark::after {
+  display: block;
+}
+
+/* Style the incorrect radio button */
+.quiz input:checked ~ .no.checkmark {
+  border: 3px solid rgba(183, 26, 27, 1);
+}
+
+/* Style the answer box */
+.quiz .log {
+  font-family: 'Montserrat', Helvetica, Sans-Serif;
+  font-size: 16pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  color: rgba(21, 26, 65, 1);
+}
+
+/* Style the incorrect answer box */
+.quiz input:checked ~ .log{
+  border: 3px solid rgba(183, 26, 27, 1) !important;
+}
+
+

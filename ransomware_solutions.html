@@ -8,8 +8,28 @@
 <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="5.css"/>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" />
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
 <script id="applicationScript" type="text/javascript" src="5.js"></script>
+<script>
+	$("input").on("click", function() {
+		  $(".log").css({
+			"background-color": "white",
+			"padding": "15px",
+			"border-radius": "20px",
+			"margin": "20px",
+			"border": "3px solid rgba(100, 179, 247, 1)",
+		  });
+		
+		  $(".log").html($("input:checked").val());
+		});
+		
+	$("input.wrong").on("click", function() {
+		  $(".log").css({
+			"border": "3px solid rgba(183, 26, 27, 1)"
+		  });
+		});
+</script>
 </head>
 <body>
 <div id="n_3_-_Data_Center_Services_-_Ransomware_Solutions">
@@ -521,160 +541,66 @@
 				</path>
 			</svg>
 		</div>
-		<div id="Projected_Damage_Cost_fy">
-			<div id="Radio_Button_-_38_times" class="Radio_Button___38_times">
-				<div id="Answer_f">
-					<svg class="Rectangle_1785_gd">
-						<rect id="Rectangle_1785_gd" rx="16" ry="16" x="0" y="0" width="332" height="61">
-						</rect>
-					</svg>
-					<div id="n_0_billion_is_projected_in_gl_ge">
-						<span>$20 billion</span><span style="font-style:normal;font-weight:normal;"> is projected in global damage costs this year</span>
-					</div>
-				</div>
-				<svg class="Stroke_f">
-					<ellipse id="Stroke_f" rx="16.5" ry="16.5" cx="16.5" cy="16.5">
-					</ellipse>
-				</svg>
-				<svg class="Inside_Circle_f">
-					<ellipse id="Inside_Circle_f" rx="9.5" ry="9.5" cx="9.5" cy="9.5">
-					</ellipse>
-				</svg>
+		<div id="How_Often" class="quiz quiz_one">
+			  <div class="question">
+				<p>How often are ransomware attacks predicted to take place?</p>
+			  </div>
+			  <div>
+				<label class="box">38 times a day
+				  <input class="wrong" type="radio" name="radio" value="<strong>Every 11 seconds </strong> a ransomware attack is predicted to take place.">
+				  <span class="no checkmark"></span>
+				</label>
+				<label class="box">5 times an hour
+				  <input class="wrong" type="radio" name="radio" value="<strong>Every 11 seconds </strong> a ransomware attack is predicted to take place.">
+				  <span class="no checkmark"></span>
+				</label>
+				<label class="box">Every 11 seconds
+				  <input class="correct" type="radio" name="radio" value="<strong>Every 11 seconds </strong> a ransomware attack is predicted to take place.">
+				  <span class="yes checkmark"></span>
+				</label>
+			  </div>
+			  <div class="log"></div>
 			</div>
-			<div id="Radio_Button_-_5_times" class="Radio_Button___5_times">
-				<div id="Answer_ga">
-					<svg class="Rectangle_1785_gd">
-						<rect id="Rectangle_1785_gd" rx="16" ry="16" x="0" y="0" width="332" height="61">
-						</rect>
-					</svg>
-					<div id="n_0_billion_is_projected_in_gl_ge">
-						<span>$20 billion</span><span style="font-style:normal;font-weight:normal;"> is projected in global damage costs this year</span>
-					</div>
-				</div>
-				<svg class="Stroke_ga">
-					<ellipse id="Stroke_ga" rx="16.5" ry="16.5" cx="16.5" cy="16.5">
-					</ellipse>
-				</svg>
-				<svg class="Inside_Circle_ga">
-					<ellipse id="Inside_Circle_ga" rx="9.5" ry="9.5" cx="9.5" cy="9.5">
-					</ellipse>
-				</svg>
+		<div id="Projected_Damage_Cost_fy" class="quiz quiz_two">
+			  <div class="question">
+				<p>What is the projected global damage cost this year?</p>
+			  </div>
+			  <div>
+				<label class="box">$75 Million
+				  <input class="wrong" type="radio" name="radio" value="<strong>$20 billion</strong> is projected in global damage costs this year.">
+				  <span class="no checkmark"></span>
+				</label>
+				<label class="box">$10 Billion
+				  <input class="wrong" type="radio" name="radio" value="<strong>$20 billion</strong> is projected in global damage costs this year.">
+				  <span class="no checkmark"></span>
+				</label>
+				<label class="box">$20 Billion
+				  <input class="correct" type="radio" name="radio" value="<strong>$20 billion</strong> is projected in global damage costs this year.">
+				  <span class="yes checkmark"></span>
+				</label>
+			  </div>
+			  <div class="log"></div>
 			</div>
-			<div id="Radio_Button_-_11_sec" class="Radio_Button___11_sec">
-				<div id="Answer_gc">
-					<svg class="Rectangle_1785_gd">
-						<rect id="Rectangle_1785_gd" rx="16" ry="16" x="0" y="0" width="332" height="61">
-						</rect>
-					</svg>
-					<div id="n_0_billion_is_projected_in_gl_ge">
-						<span>$20 billion</span><span style="font-style:normal;font-weight:normal;"> is projected in global damage costs this year</span>
-					</div>
-				</div>
-				<svg class="Stroke_gf">
-					<ellipse id="Stroke_gf" rx="16.5" ry="16.5" cx="16.5" cy="16.5">
-					</ellipse>
-				</svg>
-				<svg class="Inside_Circle_gg">
-					<ellipse id="Inside_Circle_gg" rx="9.5" ry="9.5" cx="9.5" cy="9.5">
-					</ellipse>
-				</svg>
-			</div>
-			<div id="Copy_gh">
-				<div id="What_is_the_projected_global_d">
-					<span>What is the projected global damage cost this year?</span>
-				</div>
-				<div id="n_5_million">
-					<span>$75 million</span>
-				</div>
-				<div id="n_0_billion">
-					<span>$10 billion</span>
-				</div>
-				<div id="n_0_billion_gl">
-					<span>$20 billion</span>
-				</div>
-			</div>
-			<svg class="Vertical_Bar_gm" viewBox="0 0 4 87">
-				<path id="Vertical_Bar_gm" d="M 0 0 L 0 87">
-				</path>
-			</svg>
-		</div>
-		<div id="How_Often">
-			<div id="Radio_Button_-_38_times_go" class="Radio_Button___38_times">
-				<div id="Answer_gp">
-					<svg class="Rectangle_1785_g">
-						<rect id="Rectangle_1785_g" rx="16" ry="16" x="0" y="0" width="332" height="61">
-						</rect>
-					</svg>
-					<div id="Every_11_seconds_a_ransomware__g">
-						<span>Every 11 seconds</span><span style="font-style:normal;font-weight:normal;"> a ransomware attack is predicted to take place.</span>
-					</div>
-				</div>
-				<svg class="Stroke_gs">
-					<ellipse id="Stroke_gs" rx="16.5" ry="16.5" cx="16.5" cy="16.5">
-					</ellipse>
-				</svg>
-				<svg class="Inside_Circle_gt">
-					<ellipse id="Inside_Circle_gt" rx="9.5" ry="9.5" cx="9.5" cy="9.5">
-					</ellipse>
-				</svg>
-			</div>
-			<div id="Radio_Button_-_5_times_gu" class="Radio_Button___5_times">
-				<div id="Answer_gv">
-					<svg class="Rectangle_1785_g">
-						<rect id="Rectangle_1785_g" rx="16" ry="16" x="0" y="0" width="332" height="61">
-						</rect>
-					</svg>
-					<div id="Every_11_seconds_a_ransomware__g">
-						<span>Every 11 seconds</span><span style="font-style:normal;font-weight:normal;"> a ransomware attack is predicted to take place.</span>
-					</div>
-				</div>
-				<svg class="Stroke_gy">
-					<ellipse id="Stroke_gy" rx="16.5" ry="16.5" cx="16.5" cy="16.5">
-					</ellipse>
-				</svg>
-				<svg class="Inside_Circle_gz">
-					<ellipse id="Inside_Circle_gz" rx="9.5" ry="9.5" cx="9.5" cy="9.5">
-					</ellipse>
-				</svg>
-			</div>
-			<div id="Radio_Button_-_11_sec_g" class="Radio_Button___11_sec">
-				<div id="Answer_g">
-					<svg class="Rectangle_1785_g">
-						<rect id="Rectangle_1785_g" rx="16" ry="16" x="0" y="0" width="332" height="61">
-						</rect>
-					</svg>
-					<div id="Every_11_seconds_a_ransomware__g">
-						<span>Every 11 seconds</span><span style="font-style:normal;font-weight:normal;"> a ransomware attack is predicted to take place.</span>
-					</div>
-				</div>
-				<svg class="Stroke_g">
-					<ellipse id="Stroke_g" rx="16.5" ry="16.5" cx="16.5" cy="16.5">
-					</ellipse>
-				</svg>
-				<svg class="Inside_Circle_g">
-					<ellipse id="Inside_Circle_g" rx="9.5" ry="9.5" cx="9.5" cy="9.5">
-					</ellipse>
-				</svg>
-			</div>
-			<div id="Copy_g">
-				<div id="How_often_are_ransomware_attac">
-					<span>How often are ransomware attacks predicted to take place?</span>
-				</div>
-				<div id="n_8_times_a_day">
-					<span>38 times a day</span>
-				</div>
-				<div id="n__times_an_hour">
-					<span>5 times an hour</span>
-				</div>
-				<div id="Every_11_seconds">
-					<span>Every 11 seconds</span>
-				</div>
-			</div>
-			<svg class="Vertical_Bar_hb" viewBox="0 0 4 87">
-				<path id="Vertical_Bar_hb" d="M 0 0 L 0 87">
-				</path>
-			</svg>
-		</div>
+		<div id="Projected_Damage_Cost" class="quiz_three">
+			  <div class="question">
+				<p>What percent of IT professionals believe their organization is NOT ready for an attack?</p>
+			  </div>
+			  <div>
+				<label class="box">10%
+				  <input class="wrong" type="radio" name="radio" value="<strong>50%</strong> of IT professionals don’t believe their organization is ready for an attack.">
+				  <span class="no checkmark"></span>
+				</label>
+				<label class="box">50%
+				  <input class="correct" type="radio" name="radio" value="<strong>50%</strong> of IT professionals don’t believe their organization is ready for an attack.">
+				  <span class="yes checkmark"></span>
+				</label>
+				<label class="box">25%
+				  <input class="wrong" type="radio" name="radio" value="<strong>50%</strong> of IT professionals don’t believe their organization is ready for an attack.">
+				  <span class="no checkmark"></span>
+				</label>
+			  </div>
+			  <div class="log"></div>
+			</div>	
 	</div>
 	<!-- <div id="Breadcrumbs">
 		<svg class="Path_658" viewBox="0 0 1440 35">
