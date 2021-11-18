@@ -722,16 +722,24 @@
 				"margin": "20px",
 				"border": "3px solid rgba(100, 179, 247, 1)",
 			  });
-			
-			  $(".quiz_one .log").html($("input:checked").val());
-			  $(".quiz_two .log").html($("input:checked").val());
-			  $(".quiz_three .log").html($("input:checked").val());
 			});
 			
 		$("input.wrong").on("click", function() {
 			  $(".log").css({
 				"border": "3px solid rgba(183, 26, 27, 1)"
 			  });
+			});
+		
+		$(".quiz_one input").on("click", function() {
+			$(".quiz_one .log").html($("input:checked").val());
+			});
+			
+		$(".quiz_two input").on("click", function() {
+			$(".quiz_two .log").html($("input:checked").val());
+			});
+			
+		$(".quiz_three input").on("click", function() {
+			$(".quiz_three .log").html($("input:checked").val());
 			});
 	</script>
 </body>
