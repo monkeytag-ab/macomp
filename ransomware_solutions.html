@@ -723,7 +723,7 @@
 					"border": "3px solid rgba(100, 179, 247, 1)",
 				  });
 				  
-			$(".quiz_one .log").html($("input:checked").val());
+			$(".quiz_one .log").html($("input[name=radio1]:checked").val());
 			});
 			
 		$(".quiz_two input").on("click", function() {
@@ -735,7 +735,7 @@
 					"border": "3px solid rgba(100, 179, 247, 1)",
 				  });
 				  
-			$(".quiz_two .log").html($("input:checked").val());
+			$(".quiz_two .log").html($("input[name=radio2]:checked").val());
 			});
 			
 		$(".quiz_three input").on("click", function() {
@@ -747,7 +747,7 @@
 					"border": "3px solid rgba(100, 179, 247, 1)",
 				  });
 				  
-			$(".quiz_three .log").html($("input:checked").val());
+			$(".quiz_three .log").html($("input[name=radio3]:checked").val());
 			});
 		
 		$(".quiz_one input.wrong").on("click", function() {
